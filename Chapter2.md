@@ -48,4 +48,4 @@ Machine Learning Models are initially untrained. There are three types of method
 ## How to Train ML systems
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
-[Evan vs. Cindy Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
+[Family ML Recognition Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
