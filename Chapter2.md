@@ -34,3 +34,4 @@ Examples of Machine Learning:
 - Image Generation (Generating Human faces based on learned examples)
 
 ### Deep Learning
+Uses Backpropagation to perform unsupervised learning.
