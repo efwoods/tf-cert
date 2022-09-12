@@ -32,3 +32,5 @@ Examples of Machine Learning:
 - Linear Regression (a line of best fit to make a correlation between points of data on a graph; e.g. predicting house prices or stock prices)
 - Audio Generation (turning your voice into a musical instrument; turning voice audio into human-readable text)
 - Image Generation (Generating Human faces based on learned examples)
+
+### Deep Learning
