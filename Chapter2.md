@@ -42,5 +42,5 @@ Artificial Intelligence is the process of enabling human intelligence in systems
 ## Demystifying Machine Learning
 Machine Learning Models are initially untrained. There are three types of methods to train them:
 - Supervised Learning: Data used to train the machine learning system is pre-labeled
-- Unsupervised Learning: Training using unstructured data
+- Unsupervised Learning: Training using unstructured/unlabeled data
 - Reinforcement Learning: Strengthens actions that return a reward. Weakens connections that return a punishment. 
