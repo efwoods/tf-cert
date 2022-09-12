@@ -38,3 +38,9 @@ Uses Backpropagation to perform unsupervised learning. Contains multiple layers.
 
 ### Compare & Contrast
 Artificial Intelligence is the process of enabling human intelligence in systems. A subset of AI is Machine Learning. ML is an actual program that can learn from data. Deep Learning is a class of algorithm that can drive a machine learning program. 
+
+## Demystifying Machine Learning
+Machine Learning Models are initially untrained. There are three types of methods to train them:
+- Supervised Learning: Data used to train the machine learning system is pre-labeled
+- Unsupervised Learning: Training using unstructured data
+- Reinforcement Learning: Strengthens actions that return a reward. Weakens connections that return a punishment. 
