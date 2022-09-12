@@ -46,3 +46,6 @@ Machine Learning Models are initially untrained. There are three types of method
 - Reinforcement Learning: Strengthens actions that return a reward. Weakens connections that return a punishment. (e.g. Game Development & Robotics) 
 
 ## How to Train ML systems
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+[Evan vs. Cindy Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
