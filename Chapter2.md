@@ -35,3 +35,6 @@ Examples of Machine Learning:
 
 ### Deep Learning
 Uses Backpropagation to perform unsupervised learning. Contains multiple layers. 
+
+### Compare & Contrast
+Artificial Intelligence is the process of enabling human intelligence in systems. A subset of AI is Machine Learning. ML is an actual program that can learn from data. Deep Learning is a class of algorithm that can drive a machine learning program. 
