@@ -69,3 +69,5 @@ A classification model predicts discrete classes or labels from several possible
 [Family ML Recognition Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
 
 [Family ML Gist](https://gist.github.com/efwoods/a84b45dbd0711d14e067ab86c1716cf1)
+
+## [Lesson 4: Tensorflow.js](https://learning.edx.org/course/course-v1:Google+WebML102+3T2021/block-v1:Google+WebML102+3T2021+type@sequential+block@7b1a4fefcb2f480dbd1d26afc047659d/block-v1:Google+WebML102+3T2021+type@vertical+block@a9e7b2b36e754b229db7c31a9a575983)
