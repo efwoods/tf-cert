@@ -49,3 +49,5 @@ Machine Learning Models are initially untrained. There are three types of method
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 [Family ML Recognition Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
+
+[Family ML Gist](https://gist.github.com/efwoods/a84b45dbd0711d14e067ab86c1716cf1)
