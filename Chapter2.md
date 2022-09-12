@@ -46,6 +46,24 @@ Machine Learning Models are initially untrained. There are three types of method
 - Reinforcement Learning: Strengthens actions that return a reward. Weakens connections that return a punishment. (e.g. Game Development & Robotics) 
 
 ## How to Train ML systems
+### Key Concepts
+Data: 
+
+Data is the information provided to, processed, and analyzed by a machine learning model. Input data can be images, tabular data, numbers, text, sensor recordings, sound samples, etc. 
+
+Features/Attributes:
+
+Features are characteristics or attributes of the input data used to train an ML system. They are the properties of the things you are trying to learn. 
+
+Regression Model:
+
+A regression model predicts a number based on numerical inputs. The output is the equation of a line, where the line itself is used to predict an output number based on the input feature values.
+
+Classification Model:
+
+A classification model predicts discrete classes or labels from several possible known classes or labels. The output is a line or a plane that separates different classes.
+
+### Examples
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 [Family ML Recognition Model](https://teachablemachine.withgoogle.com/models/KogCD1fq4/)
