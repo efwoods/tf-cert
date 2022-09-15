@@ -71,3 +71,22 @@ A classification model predicts discrete classes or labels from several possible
 [Family ML Gist](https://gist.github.com/efwoods/a84b45dbd0711d14e067ab86c1716cf1)
 
 ## [Lesson 4: Tensorflow.js](https://learning.edx.org/course/course-v1:Google+WebML102+3T2021/block-v1:Google+WebML102+3T2021+type@sequential+block@7b1a4fefcb2f480dbd1d26afc047659d/block-v1:Google+WebML102+3T2021+type@vertical+block@a9e7b2b36e754b229db7c31a9a575983)
+
+## [Lesson 5: 3 Ways to Use Machine Learning](https://learning.edx.org/course/course-v1:Google+WebML102+3T2021/block-v1:Google+WebML102+3T2021+type@sequential+block@ea0d0110faa84349832e80b340b07f9e/block-v1:Google+WebML102+3T2021+type@vertical+block@eff43a5d43584a9997f70a5989b33d38)
+
+### Pre-Made Models
+
+Pre-made models have already been trained on a scenario and developers can reuse them for similar use cases.
+These models include state-of-the-art models that have been trained on vast amounts of data and are robust. A few models also have Model Cards that show how a model performs, the data used to train it, and known biases that developers need to know. 
+Using pre-made models saves developers a massive amount of time and money since others have gathered the data, and development costs are minimal by comparison.
+### Transfer Learning
+
+Transfer learning involves retraining pre-made models with new data to extend their use cases to similar domains. For instance, an image recognition model trained to recognize a set of images such as cats can be retrained with additional data to identify new images such as dogs, for example. Just like you saw in Teachable Machine.
+
+### Custom Models
+
+TensorFlow.js APIs can be used to roll out custom models from a blank canvas. 
+Custom models are needed when there are no existing models for a use case or when current models are not fast enough for a particular use case. 
+### Command Line Conversion
+
+TensorFlow.js supports the execution of other forms of TensorFlow models through the command line converter. This feature is helpful for developers who want to use research that has been done on other platforms.
