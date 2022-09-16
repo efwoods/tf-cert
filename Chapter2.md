@@ -93,10 +93,10 @@ TensorFlow.js supports the execution of other forms of TensorFlow models through
 
 ### Did You Know?
 
-MediaPipe: MediaPipe is a C++ framework for building applied ML pipelines that some researchers choose to use.
+- MediaPipe: MediaPipe is a C++ framework for building applied ML pipelines that some researchers choose to use.
 
-TensorFlow Hub: TensorFlow Hub is a repository of trained machine learning models that can be reused.
+- TensorFlow Hub: TensorFlow Hub is a repository of trained machine learning models that can be reused.
 
-TensorFlow Lite: TensorFlow Lite is Google's machine learning framework that focuses on mobile native and IoT devices. While TensorFlow.js can also run on these platforms, TFLite is highly optimized for these two platforms specifically.
+- TensorFlow Lite: TensorFlow Lite is Google's machine learning framework that focuses on mobile native and IoT devices. While TensorFlow.js can also run on these platforms, TFLite is highly optimized for these two platforms specifically.
 
-ONNX: The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations. ONNX establishes open standards for representing machine learning algorithms in a way agnostic to the library it was written in.
+- ONNX: The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations. ONNX establishes open standards for representing machine learning algorithms in a way agnostic to the library it was written in.
